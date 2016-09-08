@@ -1,0 +1,19 @@
+{
+  "name": "occ",
+  "version": "1.0.0",
+  "description": "occ site clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxProvin/OCC.git"
+  },
+  "author": "Max Provin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxProvin/OCC/issues"
+  },
+  "homepage": "https://github.com/MaxProvin/OCC#readme"
+}
