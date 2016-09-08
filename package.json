@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MaxProvin/OCC/issues"
   },
-  "homepage": "https://github.com/MaxProvin/OCC#readme"
+  "homepage": "https://github.com/MaxProvin/OCC#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
 }
