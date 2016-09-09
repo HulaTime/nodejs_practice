@@ -4,7 +4,8 @@
   "description": "occ site clone",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node_modules/http-server/bin/http-server"
   },
   "repository": {
     "type": "git",
